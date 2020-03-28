@@ -6,24 +6,24 @@ These assignments can be found here: ![24-03-2020/react1](24-03-2020/react1)
 <br>(App,App2, and App3)
 
 ## State med useState og useEffect
-These assignments can be found here: 25-03-2020/day2
+These assignments can be found here: ![25-03-2020/day2](25-03-2020/day2)
 <br>(All of the exercises are created as different Apps)
 
 ## Exercises Lists and Keys
-These assignments can be found here: 24-03-2020/react1
+These assignments can be found here: ![24-03-2020/react1](24-03-2020/react1)
 <br>(App4.js and App5.js)
 
 ## Forms with React
-These assignments can be found here: 26-03-2020/day3
+These assignments can be found here: ![26-03-2020/day3](26-03-2020/day3)
 
 ## Lifting State
-These assignments can be found here: 26-03-2020/lifting-state
+These assignments can be found here: ![26-03-2020/lifting-state](26-03-2020/lifting-state)
 
 ## Api Interaction with Fetch
-These assignments can be found here: 26-03-2020/react-crud-rest-exercise
+These assignments can be found here: ![26-03-2020/react-crud-rest-exercise](26-03-2020/react-crud-rest-exercise)
 
 ## Exam preparation exercise
-These assignments can be found here: 26-03-2020/ReactStateandFetch
+These assignments can be found here: ![26-03-2020/ReactStateandFetch](26-03-2020/ReactStateandFetch)
 
 ## Questions and Anwsers
 I have gathered all of the questions from the different exercises here below, with the corresponding anwser.
