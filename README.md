@@ -2,7 +2,7 @@
 Exercises for days 24/03 -> 27/03
 
 ## JavaScript/React
-These assignments can be found here: 24-03-2020/react1
+These assignments can be found here: ![24-03-2020/react1](24-03-2020/react1)
 <br>(App,App2, and App3)
 
 ## State med useState og useEffect
@@ -30,7 +30,7 @@ I have gathered all of the questions from the different exercises here below, wi
 
 ### Forms and Controlled Components
 Exercises can be found in App.js and App2.js
-In a Controlled Component React state is made the "Single source of truth", so how:
+**In a Controlled Component React state is made the "Single source of truth", so how:**
 <br>**Q: Do we ensure that input controls like text, textarea or select always presents the value found in the components state?**
 <br>A: By assigning the value of the input, to the value saved in the state. fx. for the input 'Country', we assign the input's value like so: <input ... value={reservation.country/>
 
